@@ -1,12 +1,10 @@
 ---
 title: Índice
 layout: home
----
----
-layout: default 
-title: MODA
-nav_order: 2
----
+description: "About us"
+----
+# Red Wine is not just a Magazine
+A veces creeemos que una revista es simplemente un trozo de papel, pero es un modo de estilo vida.
 
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
 
