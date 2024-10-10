@@ -33,7 +33,7 @@ Desde abrigos y chaquetas hasta vestidos y accesorios, el granate se presenta en
 
 La combinación del granate con otros tonos, como el negro, el beige o el verde, permite crear looks equilibrados y visualmente impactantes. Sin duda, este color no solo marcará tendencia, sino que también añadirá un toque de calidez y carácter a cualquier outfit durante los meses más fríos.
 
-![Rojo oscuro](https://github.com/ainaramc/ainaramc.github.io/blob/ace8ca1866de0088df23e18209c1463568ed6171/ce%C3%B1idos.jpeg)
+![Rojo oscuro](https://github.com/ainaramc/ainaramc.github.io/blob/2194bcfc8bb8e3f6ade92dd95b87ef9bfe420d0e/rojo.jpg)
 
 ## El Cardigan ##
 El cardigan se reafirma como una de las prendas más destacadas de la temporada de otoño 2024. Este clásico atemporal se presenta en una variedad de estilos y texturas, convirtiéndose en un elemento esencial del armario.
