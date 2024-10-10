@@ -1,4 +1,5 @@
-title: logo: "/assets/images/logo.png"
+title: "RedWine"
+logo: "/assets/images/logo.png"
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
