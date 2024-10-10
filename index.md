@@ -1,15 +1,5 @@
 ---
 title: Índice
-tittle: Moda
-nav_order: 2
-tittle: Belleza
-nav_order: 3
-title: Tv
-nav_order: 4
-title: Compras
-nav_order: 5
-tittle: Conócenos
-nav_order: 6
 layout: home
 ---
 
