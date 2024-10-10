@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Índice
 layout: home
 ---
 
