@@ -1,7 +1,6 @@
 ---
 title: Índice
 layout: home
-description: "About us"
 ----
 # Red Wine is not just a Magazine
 A veces creeemos que una revista es simplemente un trozo de papel, pero es un modo de estilo vida.
