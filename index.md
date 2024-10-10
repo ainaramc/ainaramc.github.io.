@@ -1,7 +1,9 @@
 ---
-title: Índice
+title: Home
 layout: home
-----
+nav_order: 1
+description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+
 # Red Wine is not just a Magazine
 A veces creeemos que una revista es simplemente un trozo de papel, pero es un modo de estilo vida.
 
