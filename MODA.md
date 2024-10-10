@@ -11,3 +11,4 @@ Desde las pasarelas de las grandes ciudades hasta las calles de nuestros vecinda
 
 En esta sección, exploraremos las últimas colecciones, los must-haves de la temporada, y cómo integrar estas innovaciones en tu guardarropa. Desde consejos prácticos hasta entrevistas con expertos, te ofrecemos todo lo que necesitas para mantenerte a la vanguardia de la moda. Prepárate para inspirarte y transformar tu estilo, porque en el mundo de la moda actual, ¡todo es posible!
   
+![Anna Karine](https://github.com/ainaramc/ainaramc.github.io/blob/main/woman-1868523_1280.jpg?raw=true)
