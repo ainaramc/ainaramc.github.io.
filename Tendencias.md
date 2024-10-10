@@ -1,5 +1,5 @@
 ---
-title: Tendencias
+title: Tendencias otoño/invierno 2024
 layout: Home
 parent: MODA
 ---
