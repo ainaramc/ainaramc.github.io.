@@ -1,6 +1,8 @@
 ---
 title: Índice
 layout: home
+---
+---
 layout: default 
 title: MODA
 nav_order: 2
