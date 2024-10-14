@@ -1,10 +1,10 @@
 ---
 title: Articulo_Crepusculo
 layout: home
-nav_exclude: true
-permalink: /articulo-Crepusculo
+parent: Moda
 ---
 # La nueva colección de Bershka #
+![header](https://github.com/ainaramc/ainaramc.github.io/blob/main/foto1.jpg?raw=true)
 Para adentrarnos en este otoño, Bershka ha lanzado una colección inspirada en este universo creado por Stephenie Meyer hace dos decadas y el furor ha sido, por supuesto, inconmensurable.
 
 - Falda y camiseta a juego estampadas con un acaramelado (casi) beso de Bella y Edward, un jersey con la cara de este último que recuerda a los mismísimos diseños de punto de Knitwrth y sudaderas y camisetas con los pósters originales de las películas, 
@@ -21,7 +21,7 @@ y la muestra de ello son la cantidad de virales interacciones que ha tenido en r
 
 # Las mejores prendas de la colección:#
 ![Sudadera](https://github.com/ainaramc/ainaramc.github.io/blob/main/CREPUSCULO/SUDADERA.jpg?raw=true)
-**Una sudadera**
+**Una sudadera que nos enseña que Bershka es team Edward**
 
 ![Jersey](https://github.com/ainaramc/ainaramc.github.io/blob/main/CREPUSCULO/JERSEY.jpg?raw=true)
 **Un magnífico jersey de punto con el que sumarse al ‘Team Edward**
