@@ -30,6 +30,8 @@ Sus reconocimientos abarcan categorías sociales y las más importantes, como me
 Todo estaba preparado para una noche que podría marcar un hito en su carrera. Sin embargo, Swift no estaba sola en esta intensa competencia; 
 su colaborador, Post Malone, también brilló con 11 nominaciones, prometiendo un emocionante enfrentamiento en el escenario.
 
+![Taylor](![image](https://github.com/user-attachments/assets/51450a2f-a549-4349-b1ea-1152c3ac2ead))
+
 A lo largo de su carrera, Taylor ha acumulado 23 VMAs, colocándose en una posición privilegiada, solo detrás de Beyoncé, quien ostenta 30 premios, y 
 superando a íconos como Madonna, con 20 galardones, y Lady Gaga, con 19. 
 Si logra llevarse siete premios esta noche, igualará el récord de Beyoncé; con ocho, se convertiría en la artista más premiada en la historia de los VMAs.
