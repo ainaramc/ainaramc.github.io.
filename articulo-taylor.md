@@ -2,6 +2,7 @@
 title:
 layout: home
 nav_exclude: true
+permalink: https://ainaramc.github.io/articulo-taylor.md
 ---
 # Taylor Swift: La Estrella Indiscutible de los MTV VMAs 2024 #
 ![Taylor](https://github.com/ainaramc/ainaramc.github.io/blob/main/tay/tay0.jpg?raw=true)
