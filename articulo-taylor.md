@@ -1,5 +1,5 @@
 ---
-title: La estrella indiscutible de los MTV VMAs
+title: estrella_MTV
 layout: home
 nav_exclude: true
 permalink: /articulo-taylor
