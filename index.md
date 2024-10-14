@@ -18,7 +18,7 @@ Cuando nuestra empresa se toma unas vacaciones (si chic@s, todos las necesitamos
 
 Para nosotros nuestro lema es: <em> Transforma lo cotidiano en extraordinario. <em>
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+
 
 
 ----
