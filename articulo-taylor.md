@@ -2,8 +2,6 @@
 title:
 layout: home
 chlid: Estilo de Celebridades
-nav_exclude: true
-permalink: https://ainaramc.github.io/articulo-taylor.md
 ---
 # Taylor Swift: La Estrella Indiscutible de los MTV VMAs 2024 #
 ![Taylor](https://github.com/ainaramc/ainaramc.github.io/blob/main/tay/tay0.jpg?raw=true)
@@ -11,7 +9,7 @@ Taylor Swift volvió a deslumbrar en los MTV VMAs 2024, haciendo una entrada tri
 La cantante eligió un impresionante vestido corsé de cuadros en negro y amarillo, de la colección Resort 2025 de Dior, que fusionaba la estética punk con un toque de elegancia digna de la realeza moderna. La estructura del vestido, 
 con su larga falda y cola, junto al corsé con cremallera, resaltó su figura de forma impecable, mostrando su maestría tanto en la música como en el mundo de la moda.
 
-[![Taylor](https://github.com/ainaramc/ainaramc.github.io/blob/main/tay/tay1.jpg?raw=true)]
+![Taylor](https://github.com/ainaramc/ainaramc.github.io/blob/main/tay/tay1.jpg?raw=true)
 
 Este diseño, inspirado en el clásico tartán escocés, parece rendir homenaje a las raíces británicas y a la estética punk-rock de los años 70. 
 Con un patrón de cuadros en tonos oscuros y amarillos, la silueta estructurada en la parte superior se ajustaba a su torso, realzando su figura y aportando un aire de guerrera moderna. 
