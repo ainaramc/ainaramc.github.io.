@@ -10,4 +10,7 @@ La nostalgia por las décadas pasadas se manifiesta en la recuperación de estil
 Además, las colaboraciones entre marcas y celebridades están en auge, ofreciendo colecciones que emocionan a los fans y brindan acceso a piezas exclusivas. En este contexto, la moda se convierte en un vehículo para la diversidad y la inclusión, promoviendo una representación más amplia en la industria. Así, las celebridades no solo marcan tendencias, sino que también inspiran a otros a encontrar y celebrar su propio estilo.
 
 [![Taylor Swift](https://github.com/ainaramc/ainaramc.github.io/blob/main/tay/tay0.jpg?raw=true)](/articulo-taylor)
+
+[enlace de prueba](/articulo-taylor)
+
 **Taylor Swift: La Estrella Indiscutible de los MTV VMAs 2024**
