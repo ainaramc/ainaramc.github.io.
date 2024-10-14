@@ -1,7 +1,7 @@
 ---
 title: Tendencias otoño/invierno 2024
 layout: home
-parent: MODA
+parent: Moda
 ---
 # Tendencias otoño/invierno 2024 #
 Son el foco de nuestra atención estilística en este momento. A pesar de que recientemente hemos asistido a las semanas de la moda que han presentado lo que se llevará el próximo año, la caída de las temperaturas nos invita a envolvernos en cómodos suéteres y abrigos que nos resguarden del frío con elegancia.
