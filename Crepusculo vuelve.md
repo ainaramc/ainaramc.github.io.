@@ -19,7 +19,7 @@ la colección en sí nos hace pensar que Bershka es Team Edward (la cara de Robe
 algunas de las frases más célebres de las cintas (véase, por ejemplo, “Where the hell have you been, loca?”). Memes aparte, esta divertida línea ha maravillado a los Z y a los Millennials a partes iguales, 
 y la muestra de ello son la cantidad de virales interacciones que ha tenido en redes.
 
-# Las mejores prendas de la colección:#
+# Las mejores prendas de la colección:
 ![Sudadera](https://github.com/ainaramc/ainaramc.github.io/blob/main/CREPUSCULO/SUDADERA.jpg?raw=true)
 **Una sudadera que nos enseña que Bershka es team Edward**
 
