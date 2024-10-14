@@ -1,5 +1,5 @@
 ---
-title: Articulo Taylor Swift
+title:
 layout: home
 ---
 # Taylor Swift: La Estrella Indiscutible de los MTV VMAs 2024 #
