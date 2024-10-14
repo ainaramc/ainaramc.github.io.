@@ -11,6 +11,4 @@ Además, las colaboraciones entre marcas y celebridades están en auge, ofrecien
 
 [![Taylor Swift](https://github.com/ainaramc/ainaramc.github.io/blob/main/tay/tay0.jpg?raw=true)](/articulo-taylor)
 
-[enlace de prueba](/articulo-taylor)
-
 **Taylor Swift: La Estrella Indiscutible de los MTV VMAs 2024**
