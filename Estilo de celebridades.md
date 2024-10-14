@@ -2,6 +2,7 @@
 title: Estilo de celebridades
 layout: home
 parent: Moda
+has_children: true
 ---
 # La Moda Actual en las Celebridades: Un Reflejo de Diversidad y Creatividad #
 
