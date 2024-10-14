@@ -1,7 +1,7 @@
 ---
 title:
 layout: home
-parent: Estilo de Celebridades
+nav_exclude: true
 ---
 # Taylor Swift: La Estrella Indiscutible de los MTV VMAs 2024 #
 ![Taylor](https://github.com/ainaramc/ainaramc.github.io/blob/main/tay/tay0.jpg?raw=true)
