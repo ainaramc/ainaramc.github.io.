@@ -19,5 +19,7 @@ y la muestra de ello son la cantidad de virales interacciones que ha tenido en r
 
 # Las mejores prendas de la colección:#
 ![Sudadera](https://github.com/ainaramc/ainaramc.github.io/blob/main/CREPUSCULO/SUDADERA.jpg?raw=true)
-[45.99€ -  Bershka](https://www.bershka.com/es/sudadera-twilight-capucha-oversize-c0p171281402.html?colorId=800&_gl=1%26%2342%26%2359%3Bcbvebs%26%2342%26%2359%3B_up%26%2342%26%2359%3BMQ..&gclid=Cj0KCQjwgrO4BhC2ARIsAKQ7zUlmNYUAt22m7ODsPW2AInxZ7idY-sffOljjU5ET3McFRGTiUbGbSWUaAkXwEALw_wcB){: .btn }
+<span class="fs-3">
+[Tiny ass button](https://www.bershka.com/es/sudadera-twilight-capucha-oversize-c0p171281402.htmlcolorId=800&_gl=1%26%2342%26%2359%3Bcbvebs%26%2342%26%2359%3B_up%26%2342%26%2359%3BMQ..&gclid=Cj0KCQjwgrO4BhC2ARIsAKQ7zUlmNYUAt22m7ODsPW2AInxZ7idYsffOljjU5ET3McFRGTiUbGbSWUaAkXwEALw_wcB){: .btn }
+</span>
 **Una sudadera de punto con el que sumarse al 'Team Edward'**
