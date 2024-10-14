@@ -1,6 +1,8 @@
---
+---
 title: Articulo_Crepusculo
 layout: home
+nav_exclude: true
+permalink: /articulo-Crepusculo
 ---
 # La nueva colección de Bershka #
 Para adentrarnos en este otoño, Bershka ha lanzado una colección inspirada en este universo creado por Stephenie Meyer hace dos decadas y el furor ha sido, por supuesto, inconmensurable.
