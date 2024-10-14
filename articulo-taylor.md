@@ -1,5 +1,5 @@
 ---
-title:
+title: La estrella indiscutible de los MTV VMAs
 layout: home
 chlid: Estilo de Celebridades
 ---
