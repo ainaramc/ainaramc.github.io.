@@ -1,6 +1,7 @@
 ---
 title:
 layout: home
+chlid: Estilo de Celebridades
 nav_exclude: true
 permalink: https://ainaramc.github.io/articulo-taylor.md
 ---
