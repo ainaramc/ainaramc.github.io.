@@ -2,7 +2,6 @@
 title: Estilo de celebridades
 layout: home
 parent: Moda
-has_children: true
 ---
 # La Moda Actual en las Celebridades: Un Reflejo de Diversidad y Creatividad #
 
@@ -10,5 +9,5 @@ La moda contemporánea entre las celebridades es un vibrante mosaico de expresio
 La nostalgia por las décadas pasadas se manifiesta en la recuperación de estilos icónicos, mientras que el athleisure ha ganado popularidad, combinando comodidad y elegancia. Los colores vivos y las texturas audaces también dominan el panorama, reflejando un optimismo renovado.
 Además, las colaboraciones entre marcas y celebridades están en auge, ofreciendo colecciones que emocionan a los fans y brindan acceso a piezas exclusivas. En este contexto, la moda se convierte en un vehículo para la diversidad y la inclusión, promoviendo una representación más amplia en la industria. Así, las celebridades no solo marcan tendencias, sino que también inspiran a otros a encontrar y celebrar su propio estilo.
 
-[![Taylor Swift](https://github.com/ainaramc/ainaramc.github.io/blob/main/tay/tay0.jpg?raw=true)](/articulo-taylor.md)
+[![Taylor Swift](https://github.com/ainaramc/ainaramc.github.io/blob/main/tay/tay0.jpg?raw=true)](/articulo-taylor)
 **Taylor Swift: La Estrella Indiscutible de los MTV VMAs 2024**
